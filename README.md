@@ -5,7 +5,10 @@
   - [Creating different predicting models](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Study of an Accessibility Tool (UDOIT) for a Learning Management System</b>
   - [5 word description](https://github.com/joshmadakor1/Algorithms-Practice)
-    
+<h2>📄 Certifications</h2>
+
+- [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/LBAC1EOOW7OA)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="HassanBerro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
