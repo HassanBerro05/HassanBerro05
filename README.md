@@ -4,7 +4,7 @@
 - <b>Study of an Accessibility Tool (UDOIT) for a Learning Management System</b>
   - [5 create ](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Flint Crisis Water:Lead Predictive Modelling</b>
-  - [Comparing different predicting models](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Comparing different predicting models](https://github.com/HassanBerro05/Flint-Crisis-Water)
 - <b>Optimizing Decision Making at Real Madrid CF</b>
   - [Decision Analysis](https://sites.google.com/umich.edu/ds631-2023-winter-team-omega/decision-1-season-ticket-offering)
 <h2>📄 Certifications</h2>
