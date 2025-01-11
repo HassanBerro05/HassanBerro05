@@ -8,6 +8,8 @@
 <h2>📄 Certifications</h2>
 
 - [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/LBAC1EOOW7OA)
+- [Agile with Atlassian Jira ](https://www.coursera.org/account/accomplishments/verify/LHPD1WZL23BZ)
+- [DAT206x: Analyzing and Visualizing Data with Excel](https://courses.edx.org/certificates/dce5948d343b4225b70103ff3676b902)
 
 <h2> 🤳 Connect with me:</h2>
 
