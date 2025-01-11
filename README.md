@@ -1,10 +1,10 @@
 <h1>Hi, I'm Hassan! <br/><a href="https://www.linkedin.com/in/hassanberro/">Data Analyst</a>
 <h2>👨‍💻 Data Analytics Projects:</h2>
   
-- <b>Study of an Accessibility Tool (UDOIT) for a Learning Management System</b>
-  - [5 create ](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Flint Crisis Water:Lead Predictive Modelling</b>
-  - [Comparing different predicting models](https://github.com/HassanBerro05/Flint-Crisis-Water)
+- <b>Assessing UDOIT: Pioneering Accessibility in Online Education</b>
+  - [Analyzing Usage Patterns to Improve Digital Accessibility for Students ](https://github.com/HassanBerro05/Accessibility-Tool)
+- <b>Predicting Risk: A Data-Driven Approach to Flint’s Lead Pipe Crisis</b>
+  - [Analytical Modeling to Identify Lead Pipes in Flint](https://github.com/HassanBerro05/Flint-Crisis-Water)
 - <b>Optimizing Decision Making at Real Madrid CF</b>
   - [Decision Analysis](https://sites.google.com/umich.edu/ds631-2023-winter-team-omega/decision-1-season-ticket-offering)
 <h2>📄 Certifications</h2>
