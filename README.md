@@ -5,6 +5,8 @@
   - [5 create ](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Flint Crisis Water:Lead Predictive Modelling</b>
   - [Comparing different predicting models](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Optimizing Decision Making at Real Madrid CF</b>
+  - [Decision Analysis](https://sites.google.com/umich.edu/ds631-2023-winter-team-omega/decision-1-season-ticket-offering)
 <h2>📄 Certifications</h2>
 
 - [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/LBAC1EOOW7OA)
