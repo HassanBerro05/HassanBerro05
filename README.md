@@ -2,9 +2,9 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
   
 - <b>Study of an Accessibility Tool (UDOIT) for a Learning Management System</b>
-  - [5 word description](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Flint Crisis Water:Lead Predictive Model</b>
-  - [Creating different predicting models](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [5 create ](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Flint Crisis Water:Lead Predictive Modelling</b>
+  - [Comparing different predicting models](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>📄 Certifications</h2>
 
 - [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/LBAC1EOOW7OA)
