@@ -3,7 +3,7 @@
   
 - <b>Assessing UDOIT: Pioneering Accessibility in Online Education</b>
   - [Analyzing Usage Patterns to Improve Digital Accessibility for Students ](https://github.com/HassanBerro05/Accessibility-Tool)
-- <b>Predicting Risk: A Data-Driven Approach to Flint’s Lead Pipe Crisis</b>
+- <b>Predicting Risk: A Data-Driven Approach to Flint’s Water Crisis</b>
   - [Analytical Modeling to Identify Lead Pipes in Flint](https://github.com/HassanBerro05/Flint-Crisis-Water)
 - <b>Optimizing Decision Making at Real Madrid CF</b>
   - [Decision Analysis](https://sites.google.com/umich.edu/ds631-2023-winter-team-omega/decision-1-season-ticket-offering)
