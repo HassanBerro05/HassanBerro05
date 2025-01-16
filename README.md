@@ -19,3 +19,7 @@
 
 [linkedin]: https://linkedin.com/in/hassanberro
 
+[<img align="left" alt="HassanBerro | Tableau Public" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />][tableau]
+
+[tableau]:https://public.tableau.com/app/profile/hassan.berro/vizzes
+
