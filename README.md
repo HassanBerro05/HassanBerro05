@@ -2,7 +2,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
   
 - <b>Assessing UDOIT: Pioneering Accessibility in Online Education</b>
-  - [Analyzing Usage Patterns to Improve Digital Accessibility for Students ](https://github.com/HassanBerro05/Accessibility-Tool)
+  - [Analyzing Usage Patterns to Improve Digital Accessibility for Students ](https://github.com/HassanBerro05/Accessibility-Tool-Analysis)
 - <b>Predicting Risk: A Data-Driven Approach to Flint’s Water Crisis</b>
   - [Analytical Modeling to Identify Lead Pipes in Flint](https://github.com/HassanBerro05/Flint-Crisis-Water)
 - <b>Optimizing Decision Making at Real Madrid CF</b>
