@@ -5,6 +5,8 @@
   - [Analyzing Usage Patterns to Improve Digital Accessibility for Students ](https://github.com/HassanBerro05/Accessibility-Tool-Analysis)
 - <b>Predicting Risk: A Data-Driven Approach to Flint’s Water Crisis</b>
   - [Analytical Modeling to Identify Lead Pipes in Flint](https://github.com/HassanBerro05/Flint-Crisis-Water)
+- <b>Forecasting:Call Center Forecasting Project</b>
+  - [Analyzing Call Center Demand for Staff Management](https://github.com/HassanBerro05/bob-hill-call-center-forecasting)
 - <b>Optimizing Decision Making at Real Madrid CF</b>
   - [Decision Analysis](https://sites.google.com/umich.edu/ds631-2023-winter-team-omega/decision-1-season-ticket-offering)
 <h2>📄 Certifications</h2>
