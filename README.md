@@ -1,5 +1,5 @@
-<h1>Hi, I'm Hassan! <br/><a href="https://www.linkedin.com/in/hassanberro/">Data Analyst</a>
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h1>Hi, I'm Hassan! <br/><a href="https://www.linkedin.com/in/hassanberro/">Business Intelligence Analyst</a>
+<h2>👨‍💻  Analytics Projects:</h2>
   
 - <b>Assessing UDOIT: Pioneering Accessibility in Online Education</b>
   - [Analyzing Usage Patterns to Improve Digital Accessibility for Students ](https://github.com/HassanBerro05/Accessibility-Tool-Analysis)
